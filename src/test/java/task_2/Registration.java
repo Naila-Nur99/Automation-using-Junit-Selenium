@@ -25,7 +25,12 @@ public class Registration {
         driver.get("https://demo.wpeverest.com/user-registration/guest-registration-form/");
         List<WebElement> textFields = driver.findElements(By.tagName("input"));
         textFields.get(4).sendKeys("naila"); //first name
-        textFields.get(5).sendKeys("nur12069@gmail.com"); //email
+        
+        Random random = new Random();
+        int rdNumber = random.nextInt(1000);
+        String randomEmail = "user" + rdNumber + "@gmail.com";
+        textFields.get(5).sendKeys(randomEmail); //email
+        
         textFields.get(6).sendKeys("aEfT334#$Aa"); //password
         textFields.get(7).sendKeys("nur"); //last name
         textFields.get(9).click();
