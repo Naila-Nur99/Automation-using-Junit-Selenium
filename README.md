@@ -1,4 +1,4 @@
-# Web Automation & Scraping Project using Selenium & JUnit
+# Web Automation & Scraping using Selenium & JUnit
 
 This project is built using **Selenium WebDriver** and **JUnit** in **Java** to automate two webforms and perform web scraping. The first webform, the [**Practice Webform for Learners**](https://www.digitalunite.com/practice-webform-learners), involves filling out all fields, uploading a file, and verifying the **success message after submission**. The second webform, the [**Guest Registration Form**](https://demo.wpeverest.com/user-registration/guest-registration-form/), automates the process of entering the **required information**, accepting **terms and conditions**, and asserting **successful registration**. Additionally, the project scrapes data from the [**DSE Latest Share Price Table**](https://dsebd.org/latest_share_price_scroll_by_value.php), prints the data in the console, and stores it in a `.txt` file.
 
