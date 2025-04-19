@@ -29,10 +29,10 @@ This project is built using **Selenium WebDriver** and **JUnit** in **Java** to 
    - [task_1_Video](https://drive.google.com/file/d/19mBau68f2GCiKzv51tPFZ_2TyBpkRveb/view?usp=drive_link)
    
 - **Recorded Video of the "Guest Registration Form" (task_2):**  
-   - [Task_2__Video](https://drive.google.com/file/d/1ArfLpSYMVcoNpp0NURR5ONBPOecaJMb5/view?usp=drive_link)
+   - [Task_2__Video](https://drive.google.com/file/d/1aV-TRd1G2SafIBGQgYzZ3c9zpB3WORNh/view?usp=drive_link)
 
 - **Recorded Video of "Data Scraping and Storing" (task_3):**  
-   - [task_3__Video](https://drive.google.com/file/d/1sDLmmTMMexoQxxoofScNfD7iungNYAdE/view?usp=sharing)
+   - [task_3__Video](https://drive.google.com/file/d/19vgSVGbvkP-V6V3OxF-A9SrnNOJ4o0if/view?usp=drive_link)
 
 ## Reports
 
