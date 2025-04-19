@@ -15,7 +15,7 @@ This project is built using **Selenium WebDriver** and **JUnit** in **Java** to 
 - **Install JDK 17**  
 - **Install IntelliJ IDEA**  
 - **Clone the repository**  
-   - `git clone <https://github.com/Naila-Nur99/Automation-using-Junit-Selenium/tree/main>`
+   - `git clone <https://github.com/Naila-Nur99/Automation-using-Junit-Selenium>`
 - **Configure Gradle** in IntelliJ IDEA  
    - Ensure **Selenium** and **JUnit** dependencies are added in the `build.gradle` file.
 - **Build and Run the tests**  
